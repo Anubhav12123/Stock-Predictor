@@ -1,9 +1,3 @@
-# Stock-Predictor
-
-Here’s a **simple and clear README.md** draft you can use for your GitHub repository for the notebook you uploaded (`StockPredictor.ipynb`):
-
----
-
 # Stock Price Predictor
 
 This project builds a machine learning model to **predict stock price movements (up or down)** using historical market data.
