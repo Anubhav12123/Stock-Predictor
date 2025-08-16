@@ -66,7 +66,7 @@ Main libraries:
 
 ---
 
-## 📊 Results
+## Results
 
 * Achieves \~70% accuracy on test data.
 * Generates probability scores for stock movements.
